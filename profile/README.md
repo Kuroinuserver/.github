@@ -3,4 +3,4 @@
 # くろいぬさばへようこそ！
 くろいぬさばへようこそ!くろいぬさばでは、まるでMODの様な採掘や、レシピがあります！
 
-![introducing_ore](https://media.discordapp.net/attachments/1077920646492864572/1202227537179316274/introducting_ore.png)
+![introducing_ore](https://cdn.discordapp.com/attachments/1197920884657238057/1203971042222280704/introduction_ore.png)
